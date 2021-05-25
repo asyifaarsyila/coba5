@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="styles2.css">
+    <link rel="stylesheet" href="{{asset('css/styles2.css')}}">
 
     <style>
         body {
@@ -33,4 +33,5 @@
         <div class="e8_16"></div>
     </div>
 </body>
+
 </html>

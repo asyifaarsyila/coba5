@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="{{asset('css/styles.css')}}">
 </head>
 
 <body>
