@@ -1,0 +1,474 @@
+.e4_0 {
+    overflow: hidden;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
+/*amillion*/
+
+.e4_0 {
+    background-color: transparent;
+    width: 1366px;
+    height: 883px;
+    position: absolute;
+}
+
+
+/*fixpotition kabar*/
+
+.e11_59 {
+    width: 305px;
+    height: 719px;
+    position: absolute;
+    left: 1061px;
+    top: 83px;
+}
+
+
+/*kabar bg*/
+
+.e4_7 {
+    background-color: transparent;
+    width: 305px;
+    height: 719px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+
+/*cariapabangfont*/
+
+.e4_10 {
+    color: white;
+    width: 116px;
+    height: 19px;
+    position: absolute;
+    left: 37px;
+    top: 20px;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+
+/*beritafont*/
+
+.e9_8 {
+    color: white;
+    width: 127px;
+    height: 25px;
+    position: absolute;
+    left: 37px;
+    top: 118px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+
+/*sercing*/
+
+.e4_9 {
+    background-color: rgba(240.12499898672104, 240.12499898672104, 240.12499898672104, 1);
+    width: 231.46981811523438px;
+    height: 29.318359375px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+}
+
+
+/*fixpotition sercing*/
+
+.e4_92 {
+    width: 231.46981811523438px;
+    height: 29.318359375px;
+    position: absolute;
+    left: 36.532958984375px;
+    top: 59.2802734375px;
+}
+
+
+/*ini bagian 3 berita*/
+
+.e8_7 {
+    width: 211px;
+    height: 154px;
+    position: absolute;
+    left: 34px;
+    top: 163px;
+    background-image: url(images/tips_mencuci_pakaian_hitam_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e8_8 {
+    width: 211px;
+    height: 169px;
+    position: absolute;
+    left: 34px;
+    top: 332px;
+    background-image: url(images/fun_fact_about_tie_dye_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.e8_9 {
+    width: 211px;
+    height: 152px;
+    position: absolute;
+    left: 34px;
+    top: 516px;
+    background-image: url(images/untuk_hijabers__3_tips_pilih_outer_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* fixpotiton marbar */
+
+.e11_58 {
+    width: 757px;
+    height: 719px;
+    position: absolute;
+    left: 320px;
+    top: 83px;
+}
+
+
+/*bg color marbar*/
+
+.e10_3 {
+    background-color: transparent;
+    width: 757px;
+    height: 618.6267700195312px;
+    position: absolute;
+    left: 0px;
+    top: 100.37322235107422px;
+}
+
+
+/*amillionfont*/
+
+.e9_6 {
+    color: white;
+    width: 545px;
+    height: 45.065528869628906px;
+    position: absolute;
+    left: 71px;
+    top: 0px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 30px;
+    letter-spacing: 0;
+}
+
+
+/*img mabar*/
+
+.e9_11 {
+    width: 721px;
+    height: 300.0954284667969px;
+    position: absolute;
+    left: 18px;
+    top: 58.380340576171875px;
+    background-image: url(images/image_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*fixpotiton infor mabar*/
+
+.e9_7 {
+    color: white;
+    width: 720.0228881835938px;
+    height: 207.5488739013672px;
+    position: absolute;
+    left: 18.488555908203125px;
+    top: 374.8632507324219px;
+    font-family: Open Sans;
+    text-align: left;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+
+/*fixpotition kibar*/
+
+.e11_57 {
+    width: 305.4642639160156px;
+    height: 719.21875px;
+    position: absolute;
+    left: -1px;
+    top: 82.78125px;
+}
+
+
+/*kibar bg*/
+
+.e4_8 {
+    background-color: cadetblue;
+    width: 305.4642639160156px;
+    height: 719.21875px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+
+/*ktk.list kibar*/
+
+.e9_14 {
+    background-color: rgba(255, 135.42789459228516, 113.68749797344208, 1);
+    width: 271.31298828125px;
+    height: 38.75101089477539px;
+    position: absolute;
+    left: 12px;
+    top: 80.18782043457031px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.e11_5 {
+    background-color: rgba(255, 135.42789459228516, 113.68749797344208, 1);
+    width: 271.31298828125px;
+    height: 38.75101089477539px;
+    position: absolute;
+    left: 12px;
+    top: 326.1158752441406px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+
+/*wfont*/
+
+.e4_93 {
+    color: rgba(255, 255, 255, 1);
+    width: 173.60235595703125px;
+    height: 27.900728225708008px;
+    position: absolute;
+    left: 24.664825439453125px;
+    top: 24.800643920898438px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.e9_2 {
+    color: rgba(255, 255, 255, 1);
+    width: 129.96461486816406px;
+    height: 24.800647735595703px;
+    position: absolute;
+    left: 42.151275634765625px;
+    top: 89.18611907958984px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.e9_3 {
+    color: rgba(255, 255, 255, 1);
+    width: 138.50242614746094px;
+    height: 24.800647735595703px;
+    position: absolute;
+    left: 42.07562255859375px;
+    top: 128.48658752441406px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.e9_4 {
+    color: rgba(255, 255, 255, 1);
+    width: 138.50242614746094px;
+    height: 24.800647735595703px;
+    position: absolute;
+    left: 42.07562255859375px;
+    top: 168.7876434326172px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.e9_5 {
+    color: rgba(255, 255, 255, 1);
+    width: 139.45108032226562px;
+    height: 24.800647735595703px;
+    position: absolute;
+    left: 42.07562255859375px;
+    top: 209.08868408203125px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+
+/*m.font*/
+
+.e11_6 {
+    color: rgba(255, 255, 255, 1);
+    width: 173.60235595703125px;
+    height: 27.900728225708008px;
+    position: absolute;
+    left: 24.664825439453125px;
+    top: 270.72869873046875px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.e11_7 {
+    color: rgba(255, 255, 255, 1);
+    width: 129.96461486816406px;
+    height: 24.800647735595703px;
+    position: absolute;
+    left: 42.151275634765625px;
+    top: 335.1141662597656px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.e11_8 {
+    color: rgba(255, 255, 255, 1);
+    width: 138.50242614746094px;
+    height: 24.800647735595703px;
+    position: absolute;
+    left: 42.07562255859375px;
+    top: 374.41461181640625px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+.e11_9 {
+    color: rgba(255, 255, 255, 1);
+    width: 138.50242614746094px;
+    height: 24.800647735595703px;
+    position: absolute;
+    left: 42.07562255859375px;
+    top: 414.7156677246094px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0;
+}
+
+
+/*ini tak buat button di bagian list nya biar cangtip*/
+
+.btn1 {
+    background-color: transparent;
+    border: 0px;
+}
+
+
+/*fixpotition topbar*/
+
+.e11_56 {
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.e4_1 {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: grey;
+    width: 1366px;
+    height: 83px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+
+/*home font*/
+
+.e4_2 {
+    color: rgba(0, 0, 0, 1);
+    width: 64px;
+    height: 25px;
+    position: absolute;
+    left: 1114px;
+    top: 28px;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 21px;
+    letter-spacing: 0;
+}
+
+
+/*oalafont*/
+
+.e4_4 {
+    color: white;
+    width: 195px;
+    height: 43px;
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    font-family: Poppins;
+    text-align: left;
+    font-size: 28px;
+    letter-spacing: 25;
+}
+
+
+/*profilefont*/
+
+.e4_3 {
+    color: rgba(0, 0, 0, 1);
+    width: 56px;
+    height: 25px;
+    position: absolute;
+    left: 1239px;
+    top: 28px;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 21px;
+    letter-spacing: 0;
+}
+
+
+/*foot*/
+
+.e11_61 {
+    background-color: rgb(248, 135, 82);
+    text-align: center;
+    font-family: Roboto;
+    padding-top: pt;
+    font-size: 21px;
+    letter-spacing: 5;
+    width: 1367px;
+    height: 81px;
+    position: absolute;
+    left: -1px;
+    top: 802px;
+}
