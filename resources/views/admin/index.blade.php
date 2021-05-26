@@ -10,7 +10,7 @@
                 </div><!-- /.col -->
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
-                        <li class="breadcrumb-item"><a href="{{ route('dashboard.index') }}">Home</a></li>
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item active">Suppliers</li>
                     </ol>
                 </div><!-- /.col -->
@@ -27,7 +27,7 @@
                 <div class="card-header">
                     <div class="d-flex justify-content-between">
                         <h3 class="card-title">Data table of suppliers</h3>
-                        <a href="{{ route('suppliers.create') }}" class="btn btn-sm btn-success"><i
+                        <a href="#" class="btn btn-sm btn-success"><i
                                 class="fas fa-plus"></i>
                             Create</a>
                     </div>
@@ -52,9 +52,9 @@
                                     <td>{{ $supplier->telp }}</td>
                                     <td>{{ $supplier->products->count() }}</td>
                                     <td>
-                                        <a href="{{ route('suppliers.edit', [$supplier->id]) }}"
+                                        <a href="#"
                                             class="btn btn-warning float-left m-1">Edit</a>
-                                        <form class="float-left m-1" action="{{ route('suppliers.destroy', [$supplier->id]) }}" method="POST">
+                                        <form class="float-left m-1" action="#" method="POST">
                                             @method('delete')
                                             @csrf
                                             <button type="submit" class="btn btn-danger">Delete</a>

@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AuthorController;
+use App\Http\Controllers\NewsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -26,7 +28,8 @@ Route::get('/list', function () {
 });
 
 Route::get('/admin', function () {
-    return view('admin/admin');
-})->name('dashboard.index');
-Route::resource('suppliers', SupplierController::class);
-Route::resource('products', ProductController::class);
+    return view('admin/index');
+});
+
+Route::resource('authors', AuthorController::class);
+Route::resource('news', NewsController::class);
