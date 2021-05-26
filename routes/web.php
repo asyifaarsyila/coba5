@@ -24,3 +24,9 @@ Route::get('/profile', function () {
 Route::get('/list', function () {
     return view('user/list');
 });
+
+Route::get('/admin', function () {
+    return view('admin/admin');
+})->name('dashboard.index');
+Route::resource('suppliers', SupplierController::class);
+Route::resource('products', ProductController::class);

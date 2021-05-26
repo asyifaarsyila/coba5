@@ -57,9 +57,9 @@
             <div class="e4_1"></div>
             <a class="e11_56" onclick="myFunction()">Dark</a>
             <span class="e4_4">OALA.CO</span>
-            <a href="index.html" class="e4_2">Home</a>
-            <a href="list.html" class="e4_22">list</a>
-            <a href="profil.html" class="e4_3">Profil</a>
+            <a href="/" class="e4_2">Home</a>
+            <a href="/list" class="e4_22">list</a>
+            <a href="/profile" class="e4_3">Profil</a>
         </div>
         <span class="e11_61">@a.syifa.a</span>
     </div>
